@@ -36,8 +36,8 @@ Tecnologias que utilizo na área de TI e conhecimentos que venho desenvolvendo n
 Estes cartões são atualizados de forma totalmente automática com base na minha atividade na plataforma:
 
 <p align="center">
-  <img height="180em" src="https://vercel.app" />
-  <img height="180em" src="https://vercel.app" />
+  <img height="180em" src="https://vercel.app" alt="Estatísticas do GitHub de Dennison" />
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas por Dennison" />
 </p>
 
 ---
