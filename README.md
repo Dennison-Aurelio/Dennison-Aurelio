@@ -34,14 +34,33 @@ Tecnologias que utilizo na área de TI e conhecimentos que venho desenvolvendo n
 
 ### 📊 Minhas Estatísticas do GitHub
 
-Estes cartões são atualizados de forma totalmente automática com base na minha atividade na plataforma:
+<p align="center">
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Dennison-Aurelio&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
+    alt="Estatísticas do GitHub de Dennison-Aurelio"
+  />
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennison-Aurelio&layout=compact&theme=tokyonight&langs_count=8&locale=pt-br"
+    alt="Linguagens mais utilizadas por Dennison-Aurelio"
+  />
+</p>
+
+### 🔥 Sequência de Contribuições
 
 <p align="center">
-  <!-- Cartão de Estatísticas Gerais (Puxa commits públicos e privados) -->
-  <img height="180em" src="https:/username=Dennison-Aurelio/vercel.app" alt="Estatísticas Gerais de Dennison" />
-  
-  <!-- Cartão de Linguagens Mais Utilizadas nos seus códigos -->
-  <img height="180em" src="https:/username=Dennison-Aurelio/vercel.app" alt="Linguagens mais usadas" />
+  <img
+    src="https://streak-stats.demolab.com?user=Dennison-Aurelio&theme=tokyonight&locale=pt_BR"
+    alt="Sequência de contribuições de Dennison-Aurelio"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dennison-Aurelio&theme=tokyo-night&area=true&hide_border=true"
+    alt="Gráfico de atividade no GitHub de Dennison-Aurelio"
+  />
 </p>
 
 
