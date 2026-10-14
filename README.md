@@ -38,10 +38,10 @@ Estes cartões são atualizados de forma totalmente automática com base na minh
 
 <p align="center">
   <!-- Cartão de Estatísticas Gerais (Puxa commits públicos e privados) -->
-  <img height="180em" src="https://vercel.app" alt="Estatísticas Gerais de Dennison" />
+  <img height="180em" src="https:/username=Dennison-Aurelio/vercel.app" alt="Estatísticas Gerais de Dennison" />
   
   <!-- Cartão de Linguagens Mais Utilizadas nos seus códigos -->
-  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
+  <img height="180em" src="https:/username=Dennison-Aurelio/vercel.app" alt="Linguagens mais usadas" />
 </p>
 
 
