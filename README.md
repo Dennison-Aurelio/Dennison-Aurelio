@@ -56,13 +56,15 @@ Tecnologias que utilizo na área de TI e conhecimentos que venho desenvolvendo n
   />
 </p>
 
+### 📈 Gráfico de Atividade no GitHub
+
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Dennison-Aurelio&theme=tokyo-night&area=true&hide_border=true"
-    alt="Gráfico de atividade no GitHub de Dennison-Aurelio"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Dennison-Aurelio&theme=tokyo-night&hide_border=true&area=true"
+    alt="Gráfico de atividade no GitHub"
+    width="100%"
   />
 </p>
-
 
 ---
 
