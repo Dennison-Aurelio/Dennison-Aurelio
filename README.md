@@ -1,14 +1,5 @@
 # Olá! Eu sou o Dennison Aurelio 👋
 
-<p align="center">
-  🚀 <b><a href="https:/www.linkedin.com/in/dennison-aurelio-a84197164/linkedin.com" target="_blank">MEU LINKEDIN</a></b> 
-  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
-  📬 <b><a href="mailto:dennison.aurelio@gmail.com">MEU GMAIL</a></b>
-</p>
-
-
-
-
 ---
 
 ### 🧑‍💻 Sobre Mim
@@ -54,5 +45,9 @@ Estes cartões são atualizados de forma totalmente automática com base na minh
 ### 🤝 Como me encontrar
 Fique à vontade para se conectar comigo ou dar uma olhada nos meus repositórios em destaque!
 
-- **LinkedIn:** [LinkedIn](https:/www.linkedin.com/in/dennison-aurelio-a84197164/linkedin.com)
-- **E-mail:** [Gmail](mailto:dennison.aurelio@gmail.com)
+<p align="center">
+  🚀 <b><a href="https:/www.linkedin.com/in/dennison-aurelio-a84197164/linkedin.com" target="_blank">MEU LINKEDIN</a></b> 
+  &nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp; 
+  📬 <b><a href="mailto:dennison.aurelio@gmail.com">MEU GMAIL</a></b>
+</p>
+
