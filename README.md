@@ -1,16 +1,14 @@
 # Olá! Eu sou o Dennison Aurelio 👋
 
 <p align="center">
-  <!-- Link do LinkedIn -->
-  <a href="https://www.linkedin.com/in/dennison-aurelio-a84197164/" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
+  <a href="https://linkedin.com" target="_blank">
+    <img src="https://shields.io" alt="LinkedIn Badge">
   </a>
-
-  <!-- Link do Gmail -->
   <a href="mailto:dennison.aurelio@gmail.com">
-    <img src="https://shields.io" alt="Gmail">
+    <img src="https://shields.io" alt="Gmail Badge">
   </a>
 </p>
+
 
 
 ---
