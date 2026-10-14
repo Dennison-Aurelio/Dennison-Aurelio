@@ -33,10 +33,15 @@ Tecnologias que utilizo na área de TI e conhecimentos que venho desenvolvendo n
 ---
 
 ### 📊 Minhas Estatísticas do GitHub
+
 Estes cartões são atualizados de forma totalmente automática com base na minha atividade na plataforma:
 
 <p align="center">
-  <img height="180em" src="https://herokuapp.com" />
+  <!-- Cartão de Estatísticas Gerais (Puxa commits públicos e privados) -->
+  <img height="180em" src="https://vercel.app" alt="Estatísticas Gerais de Dennison" />
+  
+  <!-- Cartão de Linguagens Mais Utilizadas nos seus códigos -->
+  <img height="180em" src="https://vercel.app" alt="Linguagens mais usadas" />
 </p>
 
 
